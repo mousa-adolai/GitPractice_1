@@ -1,10 +1,12 @@
 package day3;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class ListPractice {
 
-    List<String> list = new ArrayList<>();
+    ArrayList<String> list = new ArrayList<>();
     //adding one item
+    list.addAll(Arrays.asList("hi","ki","i"));
 }
