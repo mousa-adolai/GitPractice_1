@@ -4,7 +4,8 @@ public class Movie {
 
     public static void main(String[] args) {
         //conflicts resolved
-        //JK MASTER IS CRAZY
+        ///hmmm tc 100 commits
+        //2
     }
 
 }
