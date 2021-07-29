@@ -8,5 +8,6 @@ public class SetPractice {
         for (int i = 0; i < 24; i++) {
             list.add("ye");
         }
+        System.out.println(list);
     }
 }
