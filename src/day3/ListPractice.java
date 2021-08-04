@@ -8,5 +8,5 @@ public class ListPractice {
 
     ArrayList<String> list = new ArrayList<>();
     //adding one item
-    list.addAll(Arrays.asList("hi","ki","i"));
+    //list.addAll(Arrays.asList("hi","ki","i"));
 }
